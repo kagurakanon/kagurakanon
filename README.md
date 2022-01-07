@@ -1,4 +1,4 @@
-Hi, this is Kagura Kanon!
+### Hi, this is Kagura Kanon!
 
 - 🏫 I'm an astronomy student at the University of Tokyo. I also work remotely
   at the MoS Observatory Inc., as an embedded engineer.
