@@ -4,6 +4,9 @@
   at the MoS Observatory Inc., as an embedded engineer.
 - 🔭 My research interests are astronomy, quantum mechanics and condensed matter
   physics. I'm recently relearning astrophysics.
-- 🧩 I'm familiar with Forth, Standard ML and some other popular languages.
+- 🧩 I'm familiar with Forth, Standard ML and some other popular languages. I'm
+  currently developing an experimental JVM (aka. [SkJVM]) with my friends.
 - 🍶 I like chilled rice wine, including makguli, amazake, and sake. Sponsor me
   if you want to buy me a drink.
+  
+[SkJVM]: https://github.com/kkshinkai/skjvm
